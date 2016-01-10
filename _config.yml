@@ -1,7 +1,7 @@
 name: RickySweum
 favicon: null
-layout_spectrum: 0.5656192172318697
-typography_spectrum: 0.6190473157912493
+layout_spectrum: 0.97964
+typography_spectrum: 0.27014
 title: 'Saxophonist, Composer, Educator, Producer'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.762583171017468
-  lightness: 0.6734477572608739
-  saturation: 0.10335178603418171
-  rhythmicContrast: 0.6617421179544181
+    - '#010207'
+    - '#946749'
+    - '#f4f7fc'
+    - '#ebcabf'
+    - '#b29492'
+  brandStrength: 0.625
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
